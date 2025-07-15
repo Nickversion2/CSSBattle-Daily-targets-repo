@@ -34,3 +34,13 @@ Many thanks to the more experienced CSS battlers. I've learned a lot by studying
 
 While this is primarily a personal archive, a few of my solutions have placed in the Top 10 on daily challenges.  
 Below are some examples:
+
+<details>
+<summary>📷 View Top Submissions Screenshots</summary>
+
+
+</details>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.

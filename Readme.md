@@ -35,11 +35,7 @@ Many thanks to the more experienced CSS battlers. I've learned a lot by studying
 While this is primarily a personal archive, a few of my solutions have placed in the Top 10 on daily challenges.  
 Below are some examples:
 
-<details>
-<summary>📷 View Top Submissions Screenshots</summary>
-
-
-</details>
+<details> <summary>📷 View Top Submissions Screenshots</summary> <br> <div align="center"> <table> <tr> <td align="center"> <img src="assets/CSSBATTLE13jul2025.png" width="200"><br> <sub><b>13 Jul 2025</b></sub> </td> <td align="center"> <img src="assets/CSSBATTLE14jul2025.png" width="200"><br> <sub><b>14 Jul 2025</b></sub> </td> </tr> <tr> <td align="center"> <img src="assets/CSSBATTLE25jun2025.png" width="200"><br> <sub><b>25 Jun 2025</b></sub> </td> <td align="center"> <img src="assets/CSSBATTLE9jul2025.png" width="200"><br> <sub><b>9 Jul 2025</b></sub> </td> </tr> </table> </div> </details>
 
 ## License
 

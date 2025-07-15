@@ -16,7 +16,7 @@ You'll find clean, minimal CSS snippets optimized for shortest possible code, pl
 - [About](#about)  
 - [Badges](#badges)  
 - [My Solutions](#my-solutions)  
-- [🌟 Notable Solutions](#-notable-solutions)  
+- [Notable Solutions](#-notable-solutions)  
 - [📅 Some Notable Dates](#-some-notable-dates)  
 - [License](#license)  
 - [Contact](#contact)

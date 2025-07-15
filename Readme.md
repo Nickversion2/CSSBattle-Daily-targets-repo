@@ -8,7 +8,10 @@
 
 ## My Solutions
 
-This repository contains my personal solutions to CSSBattle daily targets from 2025.
+This repository contains my personal solutions to CSSBattle daily targets from 2025,  
+as well as some top submissions from other players that I found interesting or inspiring.  
+
+Many thanks to the more experienced CSS battlers. I've learned a lot by studying their techniques and creative approaches.
 
 ## 🌟 Notable Solutions
 

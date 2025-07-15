@@ -34,10 +34,10 @@ Many thanks to the more experienced CSS battlers. I've learned a lot by studying
 
 Browse all my CSSBattle submissions grouped by month:
 
-- [April 2025](./april/)
-- [May 2025](./may/)
-- [June 2025](./june/)
-- [July 2025](./july/)
+- [April 2025](./April/)
+- [May 2025](./May/)
+- [June 2025](./June/)
+- [July 2025](./July/)
 
 ## 🌟 Notable Solutions
 

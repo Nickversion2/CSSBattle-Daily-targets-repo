@@ -1,10 +1,10 @@
 # CSS Battle
 
-![Notable](https://img.shields.io/badge/CSSBattle-Notable%20Solutions-%23D8BF06?style=plastic&logo=css3&logoColor=white)
-![Top 10](https://img.shields.io/badge/CSSBattle-Top%2010%20Solutions-%234A6302?style=plastic&logo=css3&logoColor=white)
-![Active 2025](https://img.shields.io/badge/Active%20in-2025-%230050B0?style=plastic)
-![Public](https://img.shields.io/badge/Status-Public-%232D363F?style=plastic)
-[![Profile](https://img.shields.io/badge/Profile-CSSBattle-%230050B0?style=plastic&logo=github&logoColor=white)](https://cssbattle.dev/player/nicktheromaniancoder)
+![Notable](https://img.shields.io/badge/CSSBattle-Notable%20Solutions-%23D8BF06?style=flat&logo=css3&logoColor=white)
+![Top 10](https://img.shields.io/badge/CSSBattle-Top%2010%20Solutions-%234A6302?style=flat&logo=css3&logoColor=white)
+![Active 2025](https://img.shields.io/badge/Active%20in-2025-%230050B0?style=flat)
+![Public](https://img.shields.io/badge/Status-Public-%232D363F?style=flat)
+[![Profile](https://img.shields.io/badge/Profile-CSSBattle-%230050B0?style=flat&logo=github&logoColor=white)](https://cssbattle.dev/player/nicktheromaniancoder)
 
 ## My Solutions
 

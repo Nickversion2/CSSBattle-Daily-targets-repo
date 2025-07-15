@@ -6,6 +6,21 @@
 ![Public](https://img.shields.io/badge/Status-Public-%232D363F?style=flat)
 [![Profile](https://img.shields.io/badge/Profile-CSSBattle-%23D8BF06?style=flat&logo=github&logoColor=white)](https://cssbattle.dev/player/nicktheromaniancoder)
 
+## About
+
+This repo is a personal archive of my CSSBattle daily challenge solutions from 2025.  
+You'll find clean, minimal CSS snippets optimized for shortest possible code, plus occasional Top 10 finishes.
+
+## Contents
+
+- [About](#about)  
+- [Badges](#badges)  
+- [My Solutions](#my-solutions)  
+- [🌟 Notable Solutions](#-notable-solutions)  
+- [📅 Some Notable Dates](#-some-notable-dates)  
+- [License](#license)  
+- [Contact](#contact)
+
 ## My Solutions
 
 This repository contains my personal solutions to CSSBattle daily targets from 2025,  

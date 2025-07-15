@@ -1,5 +1,7 @@
 # CSS Battle
 
+## Badges
+
 ![Notable](https://img.shields.io/badge/CSSBattle-Notable%20Solutions-%23D8BF06?style=flat&logo=css3&logoColor=white)
 ![Top 10](https://img.shields.io/badge/CSSBattle-Top%2010%20Solutions-%234A6302?style=flat&logo=css3&logoColor=white)
 ![Active 2025](https://img.shields.io/badge/Active%20in-2025-%230050B0?style=flat)
@@ -17,7 +19,7 @@ You'll find clean, minimal CSS snippets optimized for shortest possible code, pl
 - [Badges](#badges)  
 - [My Solutions](#my-solutions)  
 - [Notable Solutions](#-notable-solutions)  
-- [📅 Some Notable Dates](#-some-notable-dates)  
+- [Some Notable Dates](#-some-notable-dates)  
 - [License](#license)  
 - [Contact](#contact)
 

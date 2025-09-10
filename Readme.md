@@ -32,12 +32,14 @@ Many thanks to the more experienced CSS battlers. I've learned a lot by studying
 
 ## 📁 Monthly Solutions
 
-Browse all my CSSBattle submissions grouped by month:
+Browse all my CSSBattle submissions by month:
 
 - [April 2025](./April/)
-- [May 2025](./May/)
-- [June 2025](./June/)
+- [August 2025](./August/)
 - [July 2025](./July/)
+- [June 2025](./June/)
+- [May 2025](./May/)
+- [September 2025](./September/)
 
 ## 🌟 Notable Solutions
 

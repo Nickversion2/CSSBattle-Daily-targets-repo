@@ -35,14 +35,14 @@ Many thanks to the more experienced CSS battlers. I've learned a lot by studying
 Browse all my CSSBattle submissions by month:
 
 - [April 2025](./2025/April/)
-- [May 2025](./May/)
-- [June 2025](./June/)
-- [July 2025](./July/)
-- [August 2025](./August/)
-- [September 2025](./September/)
-- [October 2025](./October/)
-- [November 2025](./November/)
-- [December 2025](./December/)
+- [May 2025](./2025/May/)
+- [June 2025](./2025/June/)
+- [July 2025](./2025/July/)
+- [August 2025](./2025/August/)
+- [September 2025](./2025/September/)
+- [October 2025](./2025/October/)
+- [November 2025](./2025/November/)
+- [December 2025](./2025/December/)
 
 ## 🌟 Notable Solutions
 

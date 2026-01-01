@@ -34,7 +34,7 @@ Many thanks to the more experienced CSS battlers. I've learned a lot by studying
 
 Browse all my CSSBattle submissions by month:
 
-- [April 2025](./April/)
+- [April 2025](./2025/April/)
 - [May 2025](./May/)
 - [June 2025](./June/)
 - [July 2025](./July/)
